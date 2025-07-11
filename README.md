@@ -1,6 +1,8 @@
 # Registro-medicação
+# Manual do Usuário
 
 
+# Como utilizar
 Como o sistema foi atualizado, agora contendo interface gráfica, suas funcionalidades devem ser descritas novamente. 
 .Primeiramente, quando o usuário iniciar o programa terá uma tela com um menu, nele será visto as três funcionalidades disponíveis. Cadastrar medicamento comum, cadastrar medicamento controlado e ver os horários dos medicamentos. O usuário deve escolher uma das ações. 
 .Quando o usuário clicar na funcionalidade escolhida, uma nova página irá abrir, por exemplo, tanto o cadastro de medicamentos comum quanto controlado vão abriar páginas(ambas separadas) para que o medicamento seja cadastrado, será necessário colocar todas as informações necessárias e clicar no botão salvar. Quando for salvo, os campos ficarão em branco. 
